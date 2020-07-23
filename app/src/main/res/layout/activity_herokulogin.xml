@@ -43,6 +43,7 @@
             android:layout_marginBottom="5dp"
             android:gravity="left"
             android:text="Username"
+
             android:textColor="#fff"
             android:textSize="18sp" />
 
@@ -54,8 +55,7 @@
             android:hint="Username"
             android:inputType="text"
             android:padding="5dp"
-            android:paddingLeft="10dp"
-            android:textSize="24sp" />
+            android:paddingLeft="10dp" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -65,6 +65,7 @@
             android:layout_marginBottom="5dp"
             android:gravity="left"
             android:text="Password"
+
             android:textColor="#fff"
             android:textSize="18sp" />
 
@@ -76,8 +77,7 @@
             android:hint="Password"
             android:inputType="textPassword"
             android:padding="5dp"
-            android:paddingLeft="10dp"
-            android:textSize="24sp" />
+            android:paddingLeft="10dp" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -93,10 +93,10 @@
                 android:background="@drawable/greenback"
                 android:padding="5dp"
                 android:text="Login"
+                android:paddingHorizontal="20dp"
                 android:textAlignment="center"
                 android:textAllCaps="false"
                 android:textColor="#fff"
-                android:textSize="20sp"
                 android:textStyle="normal" />
             <Button
                 android:layout_width="match_parent"
@@ -109,7 +109,6 @@
                 android:textAlignment="center"
                 android:textAllCaps="false"
                 android:textColor="#fff"
-                android:textSize="20sp"
                 android:textStyle="normal" />
 
         </LinearLayout>

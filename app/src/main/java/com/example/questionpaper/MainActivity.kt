@@ -25,5 +25,13 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, com.example.questionpaper.timetable::class.java)
             startActivity(intent)
         }
+        addtimetable.setOnClickListener {
+            val intent = Intent(this, newtimetable::class.java)
+            startActivity(intent)
+        }
+        addnewtimetableonly.setOnClickListener {
+            val intent = Intent(this, com.example.questionpaper.addnewtimetableonly::class.java)
+            startActivity(intent)
+        }
     }
 }

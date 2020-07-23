@@ -12,7 +12,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".timetable"></activity>
+        <activity android:name=".addnewtimetableonly"></activity>
+        <activity android:name=".newtimetable" />
+        <activity android:name=".timetable" />
         <activity android:name=".herokulogin" />
         <activity android:name=".clasroomheroku" />
         <activity android:name=".error_page_activity" />
