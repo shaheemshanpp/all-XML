@@ -33,5 +33,9 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, com.example.questionpaper.addnewtimetableonly::class.java)
             startActivity(intent)
         }
+        esiasadmin.setOnClickListener {
+            val intent = Intent(this, eSiasAdministration::class.java)
+            startActivity(intent)
+        }
     }
 }

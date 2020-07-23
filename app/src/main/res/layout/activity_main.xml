@@ -89,5 +89,17 @@
             android:textAllCaps="true"
             android:textColor="#fff"
             android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/esiasadmin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:background="@drawable/greenback"
+            android:text="Add Time Table"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="#fff"
+            android:textSize="20sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
