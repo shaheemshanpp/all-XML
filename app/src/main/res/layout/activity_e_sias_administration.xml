@@ -73,31 +73,6 @@
                         android:text="Name"
                         android:textColor="#fff" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Department"
-                        android:textColor="#fff" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -132,15 +107,6 @@
                         android:text="Abdul Samad"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -150,23 +116,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -192,15 +141,6 @@
                         android:text="Haneesh"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -210,23 +150,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -252,15 +175,6 @@
                         android:text="Divya"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -270,23 +184,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -312,15 +209,6 @@
                         android:text="Arshad"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -330,23 +218,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -372,15 +243,6 @@
                         android:text="Lulu Farsana"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -390,23 +252,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -432,15 +277,6 @@
                         android:text="Manju"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -450,23 +286,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -492,15 +311,6 @@
                         android:text="Nazrin"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -510,23 +320,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -552,15 +345,6 @@
                         android:text="Shahidha"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -570,23 +354,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -612,15 +379,6 @@
                         android:text="Faseela"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -630,23 +388,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
                 <TableRow
@@ -672,15 +413,6 @@
                         android:text="Haneesh"
                         android:textColor="#000" />
 
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:autoSizeTextType="uniform"
-                        android:padding="4dp"
-                        android:text="Computer Science"
-                        android:textColor="#000" />
-
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -690,23 +422,6 @@
                         android:padding="2dp"
                         android:src="@drawable/ic_baseline_remove_red_eye_24" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="@color/Ammar_Green"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_edit_24" />
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_margin="2dp"
-                        android:background="@drawable/round"
-                        android:backgroundTint="#ff0000"
-                        android:padding="2dp"
-                        android:src="@drawable/ic_baseline_delete_24" />
                 </TableRow>
 
 
