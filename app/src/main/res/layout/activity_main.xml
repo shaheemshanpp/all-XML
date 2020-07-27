@@ -18,100 +18,142 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <Button
-            android:id="@+id/errorBtn"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:background="@drawable/greenback"
-            android:text="error"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#fff"
-            android:textSize="20sp" />
+            android:layout_height="150dp"
+            android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/classsroomhero"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:background="@drawable/greenback"
-            android:text="Heroku Class room"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#fff"
-            android:textSize="20sp" />
+            <Button
+                android:id="@+id/errorBtn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/greenback"
+                android:padding="10dp"
+                android:text="error"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#fff"
+                android:textSize="20sp" />
 
-        <Button
-            android:id="@+id/herologin"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:background="@drawable/greenback"
-            android:text="Heroku Login"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#fff"
-            android:textSize="20sp" />
+            <Button
+                android:id="@+id/classsroomhero"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/greenback"
+                android:padding="10dp"
+                android:text="Heroku Class room"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#fff"
+                android:textSize="20sp" />
+        </LinearLayout>
 
-        <Button
-            android:id="@+id/timetable"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:background="@drawable/greenback"
-            android:text="Time Table"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#fff"
-            android:textSize="20sp" />
+            android:layout_height="150dp"
+            android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/addtimetable"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:background="@drawable/greenback"
-            android:text="New Time Table"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#fff"
-            android:textSize="20sp" />
+            <Button
+                android:id="@+id/herologin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/greenback"
+                android:padding="10dp"
+                android:text="Heroku Login"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#fff"
+                android:textSize="20sp" />
 
-        <Button
-            android:id="@+id/addnewtimetableonly"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:background="@drawable/greenback"
-            android:text="Add Time Table"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#fff"
-            android:textSize="20sp" />
+            <Button
+                android:id="@+id/timetable"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/greenback"
+                android:padding="10dp"
+                android:text="Time Table"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#fff"
+                android:textSize="20sp" />
+        </LinearLayout>
 
-        <Button
-            android:id="@+id/esiasadmin"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:background="@drawable/greenback"
-            android:text="Esias Admin"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#fff"
-            android:textSize="20sp" />
+            android:layout_height="150dp"
+            android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/semesterNotification"
+            <Button
+                android:id="@+id/addtimetable"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/greenback"
+                android:padding="10dp"
+                android:text="New Time Table"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#fff"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/addnewtimetableonly"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/greenback"
+                android:padding="10dp"
+                android:text="Add Time Table"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#fff"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:background="@drawable/greenback"
-            android:text="Semester Notification"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#fff"
-            android:textSize="20sp" />
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/esiasadmin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/greenback"
+                android:padding="10dp"
+                android:text="Esias Admin"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#fff"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/semesterNotification"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/greenback"
+                android:padding="10dp"
+                android:text="Semester Notification"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#fff"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+    
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
