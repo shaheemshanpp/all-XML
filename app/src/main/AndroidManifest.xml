@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".eSiasAdministration"></activity>
+        <activity android:name=".timetableofasem"></activity>
+        <activity android:name=".eSiasAdministration" />
         <activity android:name=".addnewtimetableonly" />
         <activity android:name=".newtimetable" />
         <activity android:name=".timetable" />

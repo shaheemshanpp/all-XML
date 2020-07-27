@@ -96,7 +96,19 @@
             android:layout_height="wrap_content"
             android:layout_margin="1dp"
             android:background="@drawable/greenback"
-            android:text="Add Time Table"
+            android:text="Esias Admin"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="#fff"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/semesterNotification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:background="@drawable/greenback"
+            android:text="Semester Notification"
             android:textAlignment="center"
             android:textAllCaps="true"
             android:textColor="#fff"

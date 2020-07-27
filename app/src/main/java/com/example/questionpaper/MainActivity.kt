@@ -37,5 +37,9 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, eSiasAdministration::class.java)
             startActivity(intent)
         }
+        semesterNotification.setOnClickListener {
+            val intent = Intent(this, timetableofasem::class.java)
+            startActivity(intent)
+        }
     }
 }
